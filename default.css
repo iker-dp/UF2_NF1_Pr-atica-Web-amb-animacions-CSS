@@ -417,6 +417,11 @@
 		padding-bottom: 2em;
 		border-bottom: 1px solid rgba(0,0,0,.1);
 	}
+
+	.boxA a:hover, .boxB a:hover, .boxC a:hover
+	{
+		background: red;
+	}
 	
 	.box span
 	{
